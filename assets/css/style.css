@@ -8,13 +8,14 @@ body {
     background-color: #d9dcd6;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
 
 p {
     font-size: 16px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
 }
 
 header {
